@@ -7,10 +7,10 @@ function Header() {
         	<h1><a href="index.html">Menji-Magazine</a></h1>
 						<nav className="links">
 							<ul>
-								<li><a href="#">Entrepreneuriat</a></li>
-								<li><a href="#">Inspiration</a></li>
-								<li><a href="#">Story</a></li>
-								<li><a href="#">Lecture</a></li>
+								<li><a href="https://menji.netlify.app">Entrepreneuriat</a></li>
+								<li><a href="https://menji.netlify.app">Inspiration</a></li>
+								<li><a href="https://menji.netlify.app">Story</a></li>
+								<li><a href="https://menji.netlify.app">Lecture</a></li>
 							</ul>
 						</nav>
 						<nav className="main">

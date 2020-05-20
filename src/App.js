@@ -6,6 +6,7 @@ import Menu from './components/sections/Menu';
 import Posts from './components/layout/Posts';
 import SideBar from './components/layout/SideBar';
 import Pagination from './components/elements/Pagination';
+import Footer from './components/layout/Footer';
 
 
 function App() {
@@ -21,6 +22,7 @@ function App() {
 					</div>
 				  <SideBar/>
 			</div>
+      <Footer/>
     </div>
   );
 }
